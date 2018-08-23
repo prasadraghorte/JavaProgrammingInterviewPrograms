@@ -63,5 +63,9 @@ public class ChristmasTree {
             }
             System.out.println("");
         }
+        for(int i = 1;i<25; i++)
+        {
+            System.out.print("//");
+        }
     }
 }
